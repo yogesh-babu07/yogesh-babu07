@@ -13,6 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=yogesh-babu07&theme=tokyonight)
+
 ### 👀 Profile Views
 [Profile Views](https://komarev.com/ghpvc/?username=yogesh-babu07&color=blue&style=flat)
  
