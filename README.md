@@ -1,10 +1,10 @@
-### Hi there, I'm Yogesh Babu 👋
+ ### Hi there, I'm Yogesh Babu 👋
 
 > Aspiring Software Developer | B.Tech Student
 
 - 🔭 Currently working on Web Dev Projects
-- 🌱 Learning: JavaScript, React & DSA in Python
-- 👯 Looking to collaborate on Frontend Projects
+- 🌱 Learning: JavaScript, React & DSA in java
+- 👩‍💻 Looking to collaborate on Frontend Projects
 - ⚡ Fun fact: I build in public
 
 ### 🛠️ Tech Stack
@@ -14,19 +14,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 GitHub Stats
-![Yogesh's Stats](https://github-readme-stats.vercel.app/api?username=yogesh-babu07&show_icons=true&theme=tokyonight)## Hi there 👋
-
-<!--
-**yogesh-babu07/yogesh-babu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yogesh's Stats](https://github-readme-stats.vercel.app/api?username=yogesh-babu07&show_icons=true&theme=tokyonight)
